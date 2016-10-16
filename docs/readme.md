@@ -8,4 +8,5 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 
 # List of Journals
 
-
+__e-Learning__
+* Journal of e-Learning and Knowledge Society: http://www.je-lks.org/
