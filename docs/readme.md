@@ -6,7 +6,7 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 * A.P. Ershov Informatics Conference (the PSI Conference Series, 11th edition): http://psi.ispras.ru/
 
 
-* Конференции петербургских вузов
+**Конференции петербургских вузов**
 * Конференция молодых исследователей в области электротехники и электроники (2017 ElConRus): http://www.eltech.ru/ru/universitet/konferencii-forumy-seminary/2017-elconrus
 * Конференции ЛЭТИ: http://www.eltech.ru/ru/universitet/konferencii-forumy-seminary
 * Конференции Политеха: http://www.spbstu.ru/science/general-information/conference/
