@@ -3,7 +3,10 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 
 # List of Conferences
 
+* Data2017: http://dataconference.org/   
 * A.P. Ershov Informatics Conference (the PSI Conference Series, 11th edition): http://psi.ispras.ru/
+* SECR2016: https://github.com/scats/SECR2016 - expired
+* ICEGOV2017: https://github.com/scats/ICEGOV2017 - expired
 
 
 **Конференции петербургских вузов**
