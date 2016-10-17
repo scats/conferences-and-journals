@@ -3,8 +3,8 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 # List of Conferences
 
 * PSI17: https://github.com/scats/PSI17
-* SECR2016: https://github.com/scats/SECR2016
-* ICEGOV2017: https://github.com/scats/ICEGOV2017
+* SECR2016: https://github.com/scats/SECR2016 - expired
+* ICEGOV2017: https://github.com/scats/ICEGOV2017 - expired
 
 # List of Journals
 
