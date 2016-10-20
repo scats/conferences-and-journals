@@ -5,6 +5,11 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 
 * Data2017: http://dataconference.org/   
 * A.P. Ershov Informatics Conference (the PSI Conference Series, 11th edition): http://psi.ispras.ru/
+* ANALYSIS OF IMAGES, SOCIAL NETWORKS, AND TEXTS: http://aistconf.org/2016/en
+* FRUCT: http://fruct.org/
+* INTELLI: http://www.iaria.org/conferences2016/CfPINTELLI16.html
+* UBICOMM: http://www.iaria.org/conferences2016/UBICOMM16.html
+* KESW: http://2016.kesw.ru/
 * SECR2016: https://github.com/scats/SECR2016 - expired
 * ICEGOV2017: https://github.com/scats/ICEGOV2017 - expired
 
@@ -16,5 +21,9 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 
 # List of Journals
 
+__Expert Systems__
+* Expert Systems with Applications: http://www.journals.elsevier.com/expert-systems-with-applications/
+
 __e-Learning__
 * Journal of e-Learning and Knowledge Society: http://www.je-lks.org/
+
