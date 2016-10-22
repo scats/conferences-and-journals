@@ -10,6 +10,7 @@ WikiCFP is a semantic wiki for Calls For Papers in science and technology fields
 * INTELLI: http://www.iaria.org/conferences2016/CfPINTELLI16.html
 * UBICOMM: http://www.iaria.org/conferences2016/UBICOMM16.html
 * KESW: http://2016.kesw.ru/
+* ICUMT: http://www.icumt.info/2016/
 * SECR2016: https://github.com/scats/SECR2016 - expired
 * ICEGOV2017: https://github.com/scats/ICEGOV2017 - expired
 
