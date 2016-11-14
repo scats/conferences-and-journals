@@ -10,3 +10,11 @@
 * A Beamer tutorial in Beamer: http://www.uncg.edu/cmp/reu/presentations/Charles%20Batts%20-%20Beamer%20Tutorial.pdf
 * Fun with Beamer: http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf
 * LaTeX Beamer class: https://bitbucket.org/rivanvx/beamer/wiki/Home
+
+## Templates for presentations
+
+* Useful for ITMO University: https://www.overleaf.com/latex/templates/presentation-template/ycwnkvzxyzwv#.WClOc0ug_BK
+* Beamer Theme Matrix: https://www.hartwork.org/beamer-theme-matrix/
+
+## A list from Coursera course on LaTeX
+* https://www.coursera.org/learn/latex/supplement/mkVSf/polieznyie-riesursy
