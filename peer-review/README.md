@@ -11,6 +11,10 @@
 * Writing in the Sciences: https://lagunita.stanford.edu/courses/Medicine/SciWrite-SP/SelfPaced/about?utm_source=mooc-list
 * How to Write and Publish a Scientific Paper: https://www.coursera.org/learn/how-to-write-a-scientific-paper/
 
+## Checklists
+* JMCP Peer Review Checklist and Guidelines: http://www.amcp.org/JMCP_Docs/Peer_Review/8779/1033.html
+* Peer Review Checklist: http://www.ocw.usu.edu/English/intermediate-writing/english-2010/-2010/peer-review-checklist.html
+
 
 
 
