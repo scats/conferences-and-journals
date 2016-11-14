@@ -15,3 +15,6 @@
 
 * Useful for ITMO University: https://www.overleaf.com/latex/templates/presentation-template/ycwnkvzxyzwv#.WClOc0ug_BK
 * Beamer Theme Matrix: https://www.hartwork.org/beamer-theme-matrix/
+
+## A list from Coursera course on LaTeX
+* https://www.coursera.org/learn/latex/supplement/mkVSf/polieznyie-riesursy
