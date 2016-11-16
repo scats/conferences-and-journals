@@ -15,6 +15,10 @@
 * JMCP Peer Review Checklist and Guidelines: http://www.amcp.org/JMCP_Docs/Peer_Review/8779/1033.html
 * Peer Review Checklist: http://www.ocw.usu.edu/English/intermediate-writing/english-2010/-2010/peer-review-checklist.html
 
+## From NLPub
 
+* <https://nlpub.ru/Рецензирование>
+* <https://nlpub.ru/Мероприятия>
+* <https://nlpub.ru/Журналы>
 
 
