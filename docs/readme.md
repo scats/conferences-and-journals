@@ -34,3 +34,6 @@ __e-Learning__
 __Expert Systems__
 * Expert Systems with Applications: http://www.journals.elsevier.com/expert-systems-with-applications/
 
+## Как подобрать журнал для публикации статьи?
+Как подобрать журнал для публикации статьи? http://www.library.spbu.ru/blog/?p=5226
+
