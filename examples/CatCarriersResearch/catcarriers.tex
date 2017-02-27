@@ -57,7 +57,7 @@ very effective technology of carrying a cat.
 \section{Related works}
 
 Traditional cat carriers are classified and described in details in
-\cite{item01}. Authors of \cite{item02} discuss effectiveness of traditional methods. 
+\cite{item01}, \cite{item02}. Authors of \cite{item03} discuss effectiveness of traditional methods. 
 
 \section{Description of experiment}
 
@@ -72,28 +72,13 @@ A traditional method of carrying a cat is presented on Fig.~\ref{fig:Traditional
 \end{figure}
 %
 
-The file preparation module is an entry point for a user. The user defines
-all necessary environment for subsequent analysis. This environment consists
-of a folder with project source code to be analyzed, a set of analyzers
-to utilize, a set of excluded analyzer rules and so on.
+The traditional cat carrier is heavy and not space-efficient. While it is
+possible to use modern materials to build a lighter carrier in traditional
+style we decided to design a cat carrier which consists of less parts.
 
-\section{Tools}
-
-We defined the following set of parameters to compare these frameworks:
-popularity among Github \cite{item01} users, CPU and RAM utilization, ability to
-parallelize process of analysis and time required to process the same set of projects.
-
-We used a virtual machine with 3Gb of RAM, 3 CPU cores and Ubuntu 14.04
-installed as a test host.
-
-\section{Results}
-
-We chose a relatively small sample project (consisted
-of roughly 130 files) and configured two plugins in both Coala and Pylama.
-Processing time took 112 seconds for Coala and 183 seconds for Pylama.
-
-But it turned out that the most important metric was RAM utilization. We created
-a graphical representation of OS memory usage on Fig.~\ref{fig:memusage}.
+A proposed design is shown on Fig.~\ref{fig:NewCatCarrier}. It is much simpler
+and lighter than the traditional one. It is adjustable to handle a cat of any
+size, even a Maine Coon.
 
 %
 \begin{figure}
@@ -104,37 +89,36 @@ a graphical representation of OS memory usage on Fig.~\ref{fig:memusage}.
 \end{figure}
 %
 
-Pylama constantly accumulates information about errors so needed RAM grows
-almost linearly. This leads to a critical defect that reveals as total RAM
-exhaustion. Operating system forcibly terminates Pylama then. Coala does not
-accumulate errors and flushes information on errors to stdout periodically, so
-the RAM does not exhaust.
+\section{Tools}
 
-Combined comparison results are presented in Table~\ref{tab:compare}. Based on
-this results we decided to use Coala as a base framework for future work.
-Another possible option is to patch Pylama.
+We used a male 6 years old cat in our experiment. It weighted 5.54 kilograms. We
+used a traditional cat carrier produced by Cat Carriers Inc.
+
+Authors also build their own experimental cat carrier using materials bought in
+Walmart store.
+
+\section{Results}
+
+No cats ot other pets were harmed during our experiment. We defined a set of
+metrics and conducted a survey of 20 randomly selected cat owners.
+
+Combined comparison results are presented in Table~\ref{tab:compare}. We planned directions of future work based on these results.
 
 %
 \begin{table}
-	\caption{\label{tab:compare}Comparison of Coala and Pylama}
+	\caption{\label{tab:compare}Comparison of traditional and new cat carriers}
 	\begin{center}
 		\begin{tabular}{p{5cm}|P{2.5cm}|P{2.5cm}}
 			\hline
-			~                              & Coala & Pylama \\ \hlineB{2}
-			Popularity among github users  & +     & -      \\ \hline
-			CPU usage                      & +    & +      \\ \hline
-			RAM usage                      & +    & -      \\ \hline
-			Parallel processing            & +     & -      \\ \hline
-			Analysis time (sec)            & 112   & 183      \\ \hline
+			~                              & Traditional & New \\ \hlineB{2}
+			Weight                         & 3Kg     & 1Kg      \\ \hline
+			Pet happiness                  & -    & +      \\ \hline
+			Ability to carry two cats      & +     & -      \\ \hline
+			Space effectiveness            & -   & +      \\ \hline
 		\end{tabular}
 	\end{center}
 \end{table}
 %
-
-Next planned step is to process results of analysis by a parsing module
-and to standartize them. We are going to store standartized analysis results to
-a database. We plan to evaluate a number of relational (e.g. PostgreSQL) and
-non-relational databases (e.g. HBase and Cassandra).
 
 \section{Future work}
 
@@ -156,13 +140,13 @@ tool is better than existing methods of cat carrying by 146\%.
 
 \bibitem{item01} Researcher5, R.R.: Problems of carrying a cat. J. Nature. 1 (200), (2010)
 
-\bibitem{item02} Researcher6 R. et al.: Carrying a cat
+\bibitem{item02} Researcher6, R.R.: Introduction to carrying a cat. NN
+  Publishing, New York (2008)
+
+\bibitem{item03} Researcher7 R. et al.: Carrying a cat
   effectively. In: Proceedings of the Nth international
   conference on Cat Carrying, pp. 200--210. Cat Carriers Society (2011)
 
-\bibitem{item03} Researcher7, R.R.: Introduction to carrying a cat. NN
-  Publishing, New York (2008)
-  
 \bibitem{item04} Google, \url{https://google.com}
 
 \end{thebibliography}
