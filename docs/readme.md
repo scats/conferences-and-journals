@@ -1,5 +1,6 @@
 WikiCFP is a semantic wiki for Calls For Papers in science and technology fields: http://www.wikicfp.com/cfp/    
 List of Scopus journals: http://www.scimagojr.com/journalrank.php      
+LNCS Forthcoming Proceedings (2016 and 2017): ftp://ftp.springer.de/pub/tex/latex/llncs/LNCS_Forthcoming_Proceedings.pdf      
 
 
 # List of Conferences
