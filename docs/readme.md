@@ -12,8 +12,9 @@ LNCS Forthcoming Proceedings (2016 and 2017): ftp://ftp.springer.de/pub/tex/late
 * FRUCT: https://www.fruct.org (Deadline: 10th February, https://fruct.org/events)
 * INTELLI: https://www.iaria.org/conferences2017/INTELLI17.html
 * UBICOMM: https://www.iaria.org/conferences2017/UBICOMM17.html
-* KESW: http://2017.kesw.ru/
-* ICUMT: http://www.icumt.info/2016/
+* KESW: http://2017.kesw.ru/     
+* ICUMT: http://www.icumt.info/2016/     
+* Конференция «Аналитика и управление данными в областях с интенсивным использованием данных» (“Data Analytics and Management in Data Intensive Domains” (DAMDID)): http://damdid2017.frccsc.ru/ru/conference_short.html     
 * __SECR2016: https://github.com/scats/SECR2016 - expired__    
 * __ICEGOV2017: https://github.com/scats/ICEGOV2017 - expired__
 * __ICTERI2017: http://icteri.org/icteri-2017/ - expired__
